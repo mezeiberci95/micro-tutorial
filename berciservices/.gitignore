@@ -3,3 +3,4 @@
 .idea
 .*
 customer/target
+*.class
